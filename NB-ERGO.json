@@ -1,0 +1,1 @@
+{"name":"NB-ERGO","isFavorite":false,"items":[{"coin":"BTC","pool_ssl":false,"wal_id":0,"dpool_ssl":false,"miner":"nbminer","miner_config":{"url":"stratum+ssl://auto.richpool.pro:1557","algo":"ergo","pass":"x","template":"%WAL%.%WORKER_NAME%"},"pool_geo":[]}]}

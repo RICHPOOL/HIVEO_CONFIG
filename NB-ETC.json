@@ -1,0 +1,1 @@
+{"name":"NB-ETC","isFavorite":false,"items":[{"coin":"BTC","pool_ssl":false,"wal_id":0,"dpool_ssl":false,"miner":"nbminer","miner_config":{"url":"ethnh+ssl://auto.richpool.pro:1556","algo":"etchash","pass":"x","template":"%WAL%.%WORKER_NAME%"},"pool_geo":[]}]}
