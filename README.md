@@ -1,4 +1,4 @@
-# HIVEO_CONFIG
+# HIVEOS_CONFIG
 ### How to USE?
 1.Select the json File
 ![image](https://user-images.githubusercontent.com/98405605/189519018-48c3b586-d309-4a29-ac56-210b77bff830.png)
