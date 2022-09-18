@@ -1,0 +1,1 @@
+{"name":"NB-RVN","isFavorite":false,"items":[{"coin":"BTC","pool_ssl":false,"wal_id":0,"dpool_ssl":false,"miner":"nbminer","miner_config":{"url":"stratum+ssl://auto.richpool.pro:1558","algo":"kawpow","pass":"x","template":"%WAL%.%WORKER_NAME%"},"pool_geo":[]}]}
